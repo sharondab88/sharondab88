@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharondab88
-- 👀 I’m interested in all this that tick, techy at heart.
+- 👀 I’m interested in all things that tick, techy at heart.
 - 🌱 I’m currently learning how to code Python.
 - 💞️ I’m looking to collaborate on various project that'll allow me to grow my Python skillset.
 - 📫 How to reach me sharonda.bailey00@gmail.com
